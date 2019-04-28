@@ -1,0 +1,489 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\c62e5e9c4446e98ce5f8b4c3bafd960a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\55ef7855eb67a410f30d047dbdff5005\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.6.aar\ff3b52491589a799339bb7e17f8c0f00\AndroidManifest.xml:15:1-27:12
+MERGED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\55ef7d4845bac7ffbeffa6d5a189e139\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.1.0.aar\16b9943e0c0afc58bdc8be1fafe03f8f\AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\f299bd40b6f846ac0599a3d6f3aabfff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\c8491582dbd9c1f6360215e5bae5318f\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-core:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.6.aar\b415e4811adfe55ae26aab329b2b2ffd\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\e9047efe58ae7ea97c6255dea6fb8601\AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.4.aar\6f07ec725311f81dddcb354eb97277ae\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\2c534382f033c0ae81e7bd4ced488276\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\b0b37eb0837cb62d5945110d03520ede\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\0f50f90f9cd14a8d0e4e7f53ddfdb44d\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-common-16.1.0.aar\7b74d217e30a7bb12e39e46d77e694b1\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\a966260642982de2bba3ee429b24a683\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.5.aar\13d993f072bc23c281d12500ce073865\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\b82eba8ca0324ad7007042d92c3bbead\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\6d93ab1771991d0bd2631451f09f7e08\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\2884ba8bc17ddb9fcdffc0a17db60f09\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\173ff64d99b47ab030cc15ab04a1cdf1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\137f87a85721fe856a1f2cee89b11fcb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5246e7fa218b9c0cb69660def4e8e3e6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9e4dc1716741be40e23883c8d0d2e76a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\4fb97e7350b4edbc9d70ed7e0ecf2afe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\1187c89bb4df8d5fa5bd17a8c917a5f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\4911792dcc9b1948095db5ae24469b8b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\0a50dc0c4a7463cf8773e2fd4958a127\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\632fc40548d7950052dfaf3f44a57dac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\54a3b8bb60c90f367179291c940ae5a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\84c4972c1f95077111c80b8d7fbaeb84\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d74241ad9c00c29c7f4b7af9ece6c528\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\6478a3a6d618c46b600470d6d7304089\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\1e3af793913ae002418b76451b00ba73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\39d2432091c464b9277e21c2274520e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\9a86d884482464af8fe4f1b40afbd4b0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\c221ba0f29851dec1ff1dfa8144eb67e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\08ac966d68651619975934297857e45f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\bf8f0fcfc9196cabb416598a80e78e46\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7295ddb0adfc5bc39432576f077d57ff\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0805c7249e224aff301d43a898472fb4\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\fc703e301310d30e04d9e52fe3ccca4d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\54025af8e1722d622e139f0f7e185c0e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bd24749eb7ac67bb68e70261541d0a73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b602c1f993a2f70ebf831333c6b0b40b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\fb2c557ad1c133aea679d40f36851223\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\251c983fd772b8e814e8e68e4fa56a4d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\c52b78c35691f9732fe2b9f6f5c9f17f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\a655a35e7866be8a4ebfacd808cd14a1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\862b22e586e4a4e6f84a118b4bf7cf9c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b3d54a1a2eea4510919f86f4e2580fda\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\87f22fb48feed16a06631c768df68e65\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.1.aar\bb5ea95c26e941043530a1c6dbbc69b5\AndroidManifest.xml:2:1-7:12
+INJECTED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:3:5-61
+		INJECTED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:5:5-26:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\c62e5e9c4446e98ce5f8b4c3bafd960a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\c62e5e9c4446e98ce5f8b4c3bafd960a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\55ef7d4845bac7ffbeffa6d5a189e139\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\55ef7d4845bac7ffbeffa6d5a189e139\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.1.0.aar\16b9943e0c0afc58bdc8be1fafe03f8f\AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.1.0.aar\16b9943e0c0afc58bdc8be1fafe03f8f\AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\c8491582dbd9c1f6360215e5bae5318f\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\c8491582dbd9c1f6360215e5bae5318f\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-core:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.6.aar\b415e4811adfe55ae26aab329b2b2ffd\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.6.aar\b415e4811adfe55ae26aab329b2b2ffd\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\e9047efe58ae7ea97c6255dea6fb8601\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\e9047efe58ae7ea97c6255dea6fb8601\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.4.aar\6f07ec725311f81dddcb354eb97277ae\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.4.aar\6f07ec725311f81dddcb354eb97277ae\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\2c534382f033c0ae81e7bd4ced488276\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\2c534382f033c0ae81e7bd4ced488276\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\b0b37eb0837cb62d5945110d03520ede\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\b0b37eb0837cb62d5945110d03520ede\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\0f50f90f9cd14a8d0e4e7f53ddfdb44d\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\0f50f90f9cd14a8d0e4e7f53ddfdb44d\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-common-16.1.0.aar\7b74d217e30a7bb12e39e46d77e694b1\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-common-16.1.0.aar\7b74d217e30a7bb12e39e46d77e694b1\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\a966260642982de2bba3ee429b24a683\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\a966260642982de2bba3ee429b24a683\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.5.aar\13d993f072bc23c281d12500ce073865\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.5.aar\13d993f072bc23c281d12500ce073865\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\b82eba8ca0324ad7007042d92c3bbead\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\b82eba8ca0324ad7007042d92c3bbead\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\6d93ab1771991d0bd2631451f09f7e08\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\6d93ab1771991d0bd2631451f09f7e08\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\2884ba8bc17ddb9fcdffc0a17db60f09\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\2884ba8bc17ddb9fcdffc0a17db60f09\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\173ff64d99b47ab030cc15ab04a1cdf1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\173ff64d99b47ab030cc15ab04a1cdf1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5246e7fa218b9c0cb69660def4e8e3e6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5246e7fa218b9c0cb69660def4e8e3e6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7295ddb0adfc5bc39432576f077d57ff\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7295ddb0adfc5bc39432576f077d57ff\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0805c7249e224aff301d43a898472fb4\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0805c7249e224aff301d43a898472fb4\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7295ddb0adfc5bc39432576f077d57ff\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:11:9-40
+activity#gelecegiyazanlar.com.gykfirebaseauthentication.activities.AddPhotoActivity
+ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:12:9-74
+	android:name
+		ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:12:19-62
+activity#gelecegiyazanlar.com.gykfirebaseauthentication.activities.AddNoteActivity
+ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:13:9-64
+	android:name
+		ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:13:19-61
+activity#gelecegiyazanlar.com.gykfirebaseauthentication.activities.LoginActivity
+ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:14:9-23:20
+	android:label
+		ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:16:13-45
+	android:theme
+		ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:17:13-56
+	android:name
+		ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:15:13-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:21:27-74
+activity#gelecegiyazanlar.com.gykfirebaseauthentication.activities.RegisterActivity
+ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:24:9-65
+	android:name
+		ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:24:19-62
+activity#gelecegiyazanlar.com.gykfirebaseauthentication.activities.MainActivity
+ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:25:9-61
+	android:name
+		ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml:25:19-58
+uses-sdk
+INJECTED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\c62e5e9c4446e98ce5f8b4c3bafd960a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\c62e5e9c4446e98ce5f8b4c3bafd960a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\55ef7855eb67a410f30d047dbdff5005\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\55ef7855eb67a410f30d047dbdff5005\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.6.aar\ff3b52491589a799339bb7e17f8c0f00\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.6.aar\ff3b52491589a799339bb7e17f8c0f00\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\55ef7d4845bac7ffbeffa6d5a189e139\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\55ef7d4845bac7ffbeffa6d5a189e139\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.1.0.aar\16b9943e0c0afc58bdc8be1fafe03f8f\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.1.0.aar\16b9943e0c0afc58bdc8be1fafe03f8f\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\f299bd40b6f846ac0599a3d6f3aabfff\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\f299bd40b6f846ac0599a3d6f3aabfff\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\c8491582dbd9c1f6360215e5bae5318f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\c8491582dbd9c1f6360215e5bae5318f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.6.aar\b415e4811adfe55ae26aab329b2b2ffd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.6.aar\b415e4811adfe55ae26aab329b2b2ffd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\e9047efe58ae7ea97c6255dea6fb8601\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\e9047efe58ae7ea97c6255dea6fb8601\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.4.aar\6f07ec725311f81dddcb354eb97277ae\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.4.aar\6f07ec725311f81dddcb354eb97277ae\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\2c534382f033c0ae81e7bd4ced488276\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\2c534382f033c0ae81e7bd4ced488276\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\b0b37eb0837cb62d5945110d03520ede\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\b0b37eb0837cb62d5945110d03520ede\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\0f50f90f9cd14a8d0e4e7f53ddfdb44d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\0f50f90f9cd14a8d0e4e7f53ddfdb44d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-common-16.1.0.aar\7b74d217e30a7bb12e39e46d77e694b1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-common-16.1.0.aar\7b74d217e30a7bb12e39e46d77e694b1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\a966260642982de2bba3ee429b24a683\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\a966260642982de2bba3ee429b24a683\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.5.aar\13d993f072bc23c281d12500ce073865\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.5.aar\13d993f072bc23c281d12500ce073865\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\b82eba8ca0324ad7007042d92c3bbead\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\b82eba8ca0324ad7007042d92c3bbead\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\6d93ab1771991d0bd2631451f09f7e08\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\6d93ab1771991d0bd2631451f09f7e08\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\2884ba8bc17ddb9fcdffc0a17db60f09\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\2884ba8bc17ddb9fcdffc0a17db60f09\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\173ff64d99b47ab030cc15ab04a1cdf1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\173ff64d99b47ab030cc15ab04a1cdf1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\137f87a85721fe856a1f2cee89b11fcb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\137f87a85721fe856a1f2cee89b11fcb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5246e7fa218b9c0cb69660def4e8e3e6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5246e7fa218b9c0cb69660def4e8e3e6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9e4dc1716741be40e23883c8d0d2e76a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9e4dc1716741be40e23883c8d0d2e76a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\4fb97e7350b4edbc9d70ed7e0ecf2afe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\4fb97e7350b4edbc9d70ed7e0ecf2afe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\1187c89bb4df8d5fa5bd17a8c917a5f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\1187c89bb4df8d5fa5bd17a8c917a5f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\4911792dcc9b1948095db5ae24469b8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\4911792dcc9b1948095db5ae24469b8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\0a50dc0c4a7463cf8773e2fd4958a127\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\0a50dc0c4a7463cf8773e2fd4958a127\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\632fc40548d7950052dfaf3f44a57dac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\632fc40548d7950052dfaf3f44a57dac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\54a3b8bb60c90f367179291c940ae5a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\54a3b8bb60c90f367179291c940ae5a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\84c4972c1f95077111c80b8d7fbaeb84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\84c4972c1f95077111c80b8d7fbaeb84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d74241ad9c00c29c7f4b7af9ece6c528\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\d74241ad9c00c29c7f4b7af9ece6c528\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\6478a3a6d618c46b600470d6d7304089\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\6478a3a6d618c46b600470d6d7304089\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\1e3af793913ae002418b76451b00ba73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\1e3af793913ae002418b76451b00ba73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\39d2432091c464b9277e21c2274520e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\39d2432091c464b9277e21c2274520e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\9a86d884482464af8fe4f1b40afbd4b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\9a86d884482464af8fe4f1b40afbd4b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\c221ba0f29851dec1ff1dfa8144eb67e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\c221ba0f29851dec1ff1dfa8144eb67e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\08ac966d68651619975934297857e45f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\08ac966d68651619975934297857e45f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\bf8f0fcfc9196cabb416598a80e78e46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\bf8f0fcfc9196cabb416598a80e78e46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7295ddb0adfc5bc39432576f077d57ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7295ddb0adfc5bc39432576f077d57ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0805c7249e224aff301d43a898472fb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0805c7249e224aff301d43a898472fb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\fc703e301310d30e04d9e52fe3ccca4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\fc703e301310d30e04d9e52fe3ccca4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\54025af8e1722d622e139f0f7e185c0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\54025af8e1722d622e139f0f7e185c0e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bd24749eb7ac67bb68e70261541d0a73\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bd24749eb7ac67bb68e70261541d0a73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b602c1f993a2f70ebf831333c6b0b40b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b602c1f993a2f70ebf831333c6b0b40b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\fb2c557ad1c133aea679d40f36851223\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\fb2c557ad1c133aea679d40f36851223\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\251c983fd772b8e814e8e68e4fa56a4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\251c983fd772b8e814e8e68e4fa56a4d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\c52b78c35691f9732fe2b9f6f5c9f17f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\c52b78c35691f9732fe2b9f6f5c9f17f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\a655a35e7866be8a4ebfacd808cd14a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\a655a35e7866be8a4ebfacd808cd14a1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\862b22e586e4a4e6f84a118b4bf7cf9c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\862b22e586e4a4e6f84a118b4bf7cf9c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b3d54a1a2eea4510919f86f4e2580fda\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\b3d54a1a2eea4510919f86f4e2580fda\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\87f22fb48feed16a06631c768df68e65\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\87f22fb48feed16a06631c768df68e65\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.1.aar\bb5ea95c26e941043530a1c6dbbc69b5\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.1.aar\bb5ea95c26e941043530a1c6dbbc69b5\AndroidManifest.xml:5:5-44
+INJECTED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\FirebaseAuthenticationWithNavigationDrawer\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.6.aar\ff3b52491589a799339bb7e17f8c0f00\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.1.0.aar\16b9943e0c0afc58bdc8be1fafe03f8f\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.1.0.aar\16b9943e0c0afc58bdc8be1fafe03f8f\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\e9047efe58ae7ea97c6255dea6fb8601\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\e9047efe58ae7ea97c6255dea6fb8601\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\2c534382f033c0ae81e7bd4ced488276\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\2c534382f033c0ae81e7bd4ced488276\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.6.aar\ff3b52491589a799339bb7e17f8c0f00\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-database:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.6.aar\ff3b52491589a799339bb7e17f8c0f00\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.1.0.aar\16b9943e0c0afc58bdc8be1fafe03f8f\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.1.0.aar\16b9943e0c0afc58bdc8be1fafe03f8f\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\e9047efe58ae7ea97c6255dea6fb8601\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\e9047efe58ae7ea97c6255dea6fb8601\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\2c534382f033c0ae81e7bd4ced488276\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\2c534382f033c0ae81e7bd4ced488276\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.6.aar\ff3b52491589a799339bb7e17f8c0f00\AndroidManifest.xml:25:22-64
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\55ef7d4845bac7ffbeffa6d5a189e139\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\55ef7d4845bac7ffbeffa6d5a189e139\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\55ef7d4845bac7ffbeffa6d5a189e139\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\55ef7d4845bac7ffbeffa6d5a189e139\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\55ef7d4845bac7ffbeffa6d5a189e139\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\55ef7d4845bac7ffbeffa6d5a189e139\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\55ef7d4845bac7ffbeffa6d5a189e139\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\55ef7d4845bac7ffbeffa6d5a189e139\AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\55ef7d4845bac7ffbeffa6d5a189e139\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.1.0.aar\16b9943e0c0afc58bdc8be1fafe03f8f\AndroidManifest.xml:30:9-34:19
+MERGED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.1.0.aar\16b9943e0c0afc58bdc8be1fafe03f8f\AndroidManifest.xml:30:9-34:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\e9047efe58ae7ea97c6255dea6fb8601\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\e9047efe58ae7ea97c6255dea6fb8601\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\55ef7d4845bac7ffbeffa6d5a189e139\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\55ef7d4845bac7ffbeffa6d5a189e139\AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\55ef7d4845bac7ffbeffa6d5a189e139\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\55ef7d4845bac7ffbeffa6d5a189e139\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\55ef7d4845bac7ffbeffa6d5a189e139\AndroidManifest.xml:37:17-109
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.1.0.aar\16b9943e0c0afc58bdc8be1fafe03f8f\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.1.0.aar\16b9943e0c0afc58bdc8be1fafe03f8f\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.1.0.aar\16b9943e0c0afc58bdc8be1fafe03f8f\AndroidManifest.xml:32:17-107
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\e9047efe58ae7ea97c6255dea6fb8601\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\2c534382f033c0ae81e7bd4ced488276\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\2c534382f033c0ae81e7bd4ced488276\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\e9047efe58ae7ea97c6255dea6fb8601\AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\e9047efe58ae7ea97c6255dea6fb8601\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\e9047efe58ae7ea97c6255dea6fb8601\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\e9047efe58ae7ea97c6255dea6fb8601\AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\2c534382f033c0ae81e7bd4ced488276\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\2c534382f033c0ae81e7bd4ced488276\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\2c534382f033c0ae81e7bd4ced488276\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\2c534382f033c0ae81e7bd4ced488276\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\1b9c1fa5ac676c3dc98a194426bbdcdb\AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\edc590ee1c01582132be15c5fea60983\AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\0f50f90f9cd14a8d0e4e7f53ddfdb44d\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\0f50f90f9cd14a8d0e4e7f53ddfdb44d\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\0f50f90f9cd14a8d0e4e7f53ddfdb44d\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\0f50f90f9cd14a8d0e4e7f53ddfdb44d\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-common-16.1.0.aar\7b74d217e30a7bb12e39e46d77e694b1\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-common-16.1.0.aar\7b74d217e30a7bb12e39e46d77e694b1\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-common-16.1.0.aar\7b74d217e30a7bb12e39e46d77e694b1\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-common-16.1.0.aar\7b74d217e30a7bb12e39e46d77e694b1\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\firebase-common-16.1.0.aar\7b74d217e30a7bb12e39e46d77e694b1\AndroidManifest.xml:13:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\173ff64d99b47ab030cc15ab04a1cdf1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\173ff64d99b47ab030cc15ab04a1cdf1\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\semra\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\173ff64d99b47ab030cc15ab04a1cdf1\AndroidManifest.xml:24:13-58
